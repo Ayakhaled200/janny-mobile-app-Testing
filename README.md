@@ -6,26 +6,43 @@
 
 ## 📂 Repository Overview
 
-This repository contains testing documentation and bug reports to ensure the app meets quality and design standards, starting feom mobile testing and updating the repo with all the testing aspectts.
+This repository contains testing documentation and bug reports to ensure the app meets quality and design standards.  
+It starts with mobile testing and is updated continuously to cover all testing aspects.
 
 ---
 
 ## 📋 Contents
 
 - **Design Testing**
-  - `DesignTesting/Design Testing Bug Report 1.xlsx`
-  - `DesignTesting/Design Testing Bug Report 2.xlsx`
-- **(Upcoming) Functional Testing**
-- **(Upcoming) User Feedback Reports**
+  - `Design Testing/UI_UX Bug Report 1.zip`
+  - `Design Testing/UI_UX Bug Report 2.zip`
+- **Functional Testing**
+  - `Functional Testing/Test Design + Bug report.zip`
+- `README.md`
 
 ---
 
 ## 🧪 Design Testing
 
-Initial testing to validate the UI/UX design implementation against design specifications.  
-Each Excel file contains detailed issues, screenshots, and reproduction steps.
+Design testing focuses on validating the UI/UX implementation against approved design specifications.  
+Each ZIP archive includes:
+- **HTML files** representing the relevant screens
+- **CSS resources** for styling
+- Documentation of identified issues, screenshots, and reproduction steps
 
 ---
 
+## ⚙️ Functional Testing
 
+Functional testing ensures the app's features work as expected.  
+The current test cases and bug reports cover:
+- Login functionality
+- User registration
+- Forgot Password flows
 
+Just like the design testing packages, the ZIP archive includes:
+- **HTML files** for each tested screen
+- **CSS resources**
+- Bug documentation and supporting screenshots
+
+---
