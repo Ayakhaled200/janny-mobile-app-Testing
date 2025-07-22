@@ -13,11 +13,11 @@ It starts with mobile testing and is updated continuously to cover all testing a
 
 ## 📋 Contents
 
-- **Design Testing**
+- **Design Testing** (`/docs/Design_testing`)
   - [`Design_Testing_1.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Design_testing/Design_Testing_1.html)
   - [`Design_Testing_2.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Design_testing/Design_Testing_2.html)
 
-- **Functional Testing**
+- **Functional Testing** (`/docs/Design_testing`)
   - [`Functional_Testing_1.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_1.html)
   - [`Functional_Testing_2.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_2.html)
 
