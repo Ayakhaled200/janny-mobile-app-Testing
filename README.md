@@ -14,10 +14,13 @@ It starts with mobile testing and is updated continuously to cover all testing a
 ## 📋 Contents
 
 - **Design Testing**
-  - `Design Testing/UI_UX Bug Report 1.zip`
-  - `Design Testing/UI_UX Bug Report 2.zip`
+  - [`Design_Testing_1.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Design_testing/Design_Testing_1.html)
+  - [`Design_Testing_2.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Design_testing/Design_Testing_2.html)
+
 - **Functional Testing**
-  - `Functional Testing/Test Design + Bug report.zip`
+  - [`Functional_Testing_1.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_1.html)
+  - [`Functional_Testing_2.html`](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_2.html)
+
 - `README.md`
 
 ---
@@ -25,24 +28,44 @@ It starts with mobile testing and is updated continuously to cover all testing a
 ## 🧪 Design Testing
 
 Design testing focuses on validating the UI/UX implementation against approved design specifications.  
-Each ZIP archive includes:
-- **HTML files** representing the relevant screens
-- **CSS resources** for styling
-- Documentation of identified issues, screenshots, and reproduction steps
+Each HTML file includes:
+- ✅ Visual validation of layouts and design
+- ✅ CSS resources for full styling
+- ✅ Documented UI bugs and usability feedback
 
 ---
 
 ## ⚙️ Functional Testing
 
-Functional testing ensures the app's features work as expected.  
-The current test cases and bug reports cover:
-- Login functionality
-- User registration
+Functional testing ensures the app's features work as expected.
+
+Both Files Include Includes:
+- ✅ Test case design
+- ✅ Execution results
+- ✅ Bug reports
+- ✅ Screenshots and reproduction steps
+- ✅ CSS styling and HTML preview
+  
+
+### 🔹 Functional Testing 1
+Covers:
+- Edit Profile functionality  
+- Change Password 
+- Logout
+
+
+👉 [View Functional_Testing_1.html](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_1.html)
+
+---
+
+### 🔹 Functional Testing 2
+
+Covers testing of **core account features**:
+- Login
+- Create Account
 - Forgot Password flows
 
-Just like the design testing packages, the ZIP archive includes:
-- **HTML files** for each tested screen
-- **CSS resources**
-- Bug documentation and supporting screenshots
+
+👉 [View Functional_Testing_2.html](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_2.html)
 
 ---
