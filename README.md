@@ -69,3 +69,18 @@ Covers testing of **core account features**:
 👉 [View Functional_Testing_2.html](https://ayakhaled200.github.io/janny-mobile-app-Testing/Functional_Testing/Functional_Testing_2.html)
 
 ---
+
+## 🔐 API Testing
+
+API Testing covers **Sign In** and **Sign Up** functionality in the mobile application.  
+It includes well-structured test case designs and detailed bug reports for request validation and response handling.
+
+- ✅ Structured test cases with input/output expectations  
+- ✅ Validation for edge cases (e.g., empty fields, invalid formats)  
+- ✅ Status code checks and response handling  
+- ✅ Bug reports with HTTP request/response samples  
+- ✅ Styled HTML and linked CSS for visual clarity
+
+👉 [View API_Testing_Sign_In_Up.html](https://ayakhaled200.github.io/janny-mobile-app-Testing/API_Testing/API_Testing_Sign_In_Up.html)
+
+---
